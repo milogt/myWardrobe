@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20B29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Piece" representedClassName="Piece" syncable="YES" codeGenerationType="class">
+        <attribute name="brand" attributeType="String"/>
+        <attribute name="color" attributeType="String"/>
+        <attribute name="detail" attributeType="String"/>
+        <attribute name="fabric" attributeType="String"/>
+        <attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="image" optional="YES" attributeType="Binary"/>
+        <attribute name="keywords" attributeType="String"/>
+        <attribute name="name" attributeType="String"/>
+        <attribute name="size" attributeType="String"/>
+        <attribute name="subType" attributeType="String"/>
+        <attribute name="type" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Piece" positionX="-63" positionY="-18" width="128" height="194"/>
+    </elements>
+</model>
